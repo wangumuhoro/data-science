@@ -1,4 +1,4 @@
-this respo contains the notebooks for learning data science
+This repo contains the notebooks for learning data science
 
 ## Requirements
 python3 
